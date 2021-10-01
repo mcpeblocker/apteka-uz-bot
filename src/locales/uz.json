@@ -1,0 +1,54 @@
+{
+    "common": {
+        "keyboard": {
+            "back": "◀️ Orqaga",
+            "home": "🔼 Bosh sahifa",
+            "cancel": "❌ Bekor qilish"
+        }
+    },
+    "main": {
+        "welcome": "Apteka botiga xush kelibsiz",
+        "keyboard": {
+            "search": "🔍 Dori izlash",
+            "instructions": "ℹ️ Botdan foydalanish",
+            "comment": "📝 Izoh qoldirish",
+            "about": "📖 Axborot",
+            "language": "🇺🇿 Tilni o'zgartirish"
+        }
+    },
+    "search": {
+        "welcome": "📍 O'zingiz yashaydigan hududni tanlang yoki manzilingizni jo'nating",
+        "keyboard": {
+            "location": "📌 Mening joylashuvim",
+            "country": "🇺🇿 O'zbekiston"
+        }
+    },
+    "subsearch": {
+        "welcome": "Tumanni tanlang:",
+        "keyboard": {
+            "all": "Butun hudud 🏙"
+        }
+    },
+    "searchcure": {
+        "welcome": "Dori nomini kiriting va bizning bot sizga mos variantlarni tanlab beradi:\n\nMisol: <b>analgin</b>\n(Kamida 3ta belgi)"
+    },
+    "about": {
+        "welcome": "📙 Kerakli bo'limni tanlang",
+        "info": "Biz haqimizda",
+        "contact": "<b>Aloqa:</b>\n\n<b>Sayt:</b> apteka.softly.uz\n\n<b>Facebook:</b> <a href='https://facebook.com/...'>Facebook Apteka</a>\n\n<b>Telefon:</b> +998 99 999 9999",
+        "keyboard": {
+            "info": "ℹ️ Biz haqimizda",
+            "contact": "📞 Aloqa"
+        }
+    },
+    "comment": {
+        "welcome": "📱 Izoh qoldirishdan oldin telefon raqamingizni yuboring",
+        "sent": "✅ Fikringiz muvaffaqiyatli yuborildi!",
+        "phone": "❗️ Iltimos, telefon raqamingizni yuboring",
+        "input": "✍️ Marhamat, bizga izoh / istak / shikoyat yozib jo'nating\n\n(1-256)",
+        "text": "❗️ Iltimos, fikringizni matn ko'rinishida yuboring",
+        "keyboard": {
+            "phone": "📲 Telefon raqamni jo'natish"            
+        }
+    }
+}

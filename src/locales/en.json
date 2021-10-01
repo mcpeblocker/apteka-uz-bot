@@ -1,0 +1,54 @@
+{
+    "common": {
+        "keyboard": {
+            "back": "◀️ Go back",
+            "home": "🔼 Home",
+            "cancel": "❌ Cancel"
+        }
+    },
+    "main": {
+        "welcome": "Welcome",
+        "keyboard": {
+            "search": "🔍 Search",
+            "instructions": "ℹ️ Instructions",
+            "comment": "📝 Leave a comment",
+            "about": "📖 Info",
+            "language": "🇺🇸 Change language"
+        }
+    },
+    "search": {
+        "welcome": "📍 Choose the area where you live or send your location.",
+        "keyboard": {
+            "location": "📌 My location",
+            "country": "🇺🇿 Uzbekistan"
+        }
+    },
+    "subsearch": {
+        "welcome": "Choose subregion:",
+        "keyboard": {
+            "all": "The whole area 🏙"
+        }
+    },
+    "searchcure": {
+        "welcome": "Enter the name of the drug and our bot will select the options that suit you:\n\nFor example: <b>analgin</b>\n(At least 3 characters)"
+    },
+    "about": {
+        "welcome": "📙 Select the desired section",
+        "info": "About us",
+        "contact": "<b>Contact:</b>\n\n<b>Website:</b> apteka.softly.uz\n\n<b>Facebook:</b> <a href='https://facebook.com/...'>Facebook Apteka</a>\n\n<b>Phone:</b> +998 99 999 9999",
+        "keyboard": {
+            "info": "ℹ️ About us",
+            "contact": "📞 Contact us"
+        }
+    },
+    "comment": {
+        "welcome": "📱 Please send your phone number before leaving a comment",
+        "phone": "❗️ Please send your phone number",
+        "input": "✍️ Please send us a comment / request / complaint\n\n(1-256)",
+        "text": "❗️ Please send your opinion in text form",
+        "sent": "✅ The comment was sent successfully!",
+        "keyboard": {
+            "phone": "📲 Send a phone number"            
+        }
+    }
+}
